@@ -3,10 +3,10 @@
 🔍 Project Overview : The Student Management System is built to manage student records, including adding, updating, deleting, and viewing student information. The application ensures a robust and user-friendly interface for managing student data.
 
 💻 Key Features :  
-✅ Add Student Section : Inputs for roll number, name, and marks in three subjects.  
+✅ Add Student Section : Inputs for roll number, name, and marks in three subjects.    
 ✅ View Student Section : View student details including roll number, name, and subject marks. 
-✅ Update Student Section : Search and update student records by roll number.   
-✅ Delete Student Section : Delete student records by roll number.   
+✅ Update Student Section : Search and update student records by roll number.     
+✅ Delete Student Section : Delete student records by roll number.     
 ✅ Data Validations : All inputs are validated to ensure accuracy and integrity.  
 
 🔧 Technologies Used :   
@@ -18,7 +18,7 @@
 
 📜 Data Validations :   
 ✅ Roll Number : Ensures the roll number is a unique integer.   
-✅ Name : Validates that the name field is not empty and contains only alphabetic characters.   
+✅ Name : Validates that the name field is not empty and contains only alphabetic characters.  
 ✅ Marks : Validates that marks for each subject are within the range of 0 to 100.  
 
 📜 How It Works :  
@@ -26,3 +26,9 @@ Add : Enter roll number, name, and subject marks to add new student records.
 Update : Search by roll number to update student data.  
 Delete : Remove student records based on roll number.  
 View : Display student details including marks for all subjects.  
+
+
+https://github.com/user-attachments/assets/1e4bd585-f813-402c-9c07-0b23a0149b6f
+
+
+
